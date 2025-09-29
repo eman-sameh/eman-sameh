@@ -59,7 +59,7 @@
   <table>
     <tr>
       <td>
-        <img src="https://github-readme-stats.vercel.app/api?username=eman-sameh&show_icons=true&title_color=FFFFFF&icon_color=FFFFFF&text_color=FFFFFF&bg_color=251605&border_color=FFB6C1&include_all_commits=true&count_private=true" alt="Eman's GitHub Stats" />
+        <img src="https://github-readme-stats.vercel.app/api?username=eman-sameh&show_icons=true&title_color=FFFFFF&icon_color=FFB6C1&text_color=FFFFFF&bg_color=251605&border_color=FFB6C1&include_all_commits=true&count_private=true" alt="Eman's GitHub Stats" />
       </td>
       <td>
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eman-sameh&layout=compact&title_color=FFFFFF&text_color=FFFFFF&bg_color=251605&border_color=FFB6C1&langs_count=8" alt="Eman's Top Languages" />
