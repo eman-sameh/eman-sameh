@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/LHZyixOnHwDDy/giphy.gif" alt="Girly Banner" width="800"/>
+  <img src="https://raw.githubusercontent.com/eman-sameh/eman-sameh/main/Cat%20Wow%20GIF%20by%20sillynub.gif" alt="Girly Banner" width="800"/>
 </p>
 
 <div align="center">
