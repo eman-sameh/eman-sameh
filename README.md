@@ -1,26 +1,25 @@
-<!-- Header Typing SVG -->
+<!-- Title -->
+<h1 align="center" style="color:#251605; font-size:36px; font-family:Comic Sans MS;">
+  Hey there, I'm Eman Sameh! 🌸
+</h1>
+
+<!-- Subtitle -->
+<h3 align="center" style="color:#251605; font-size:20px;">
+  Data Science Enthusiast 📊 · Machine Learning Explorer 🤖 · AI Dreamer ✨ · Always Learning 📚
+</h3>
+
+<br/>
+
+<!-- Cute GIF with rounded effect -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Comic+Sans+MS&size=28&duration=3000&pause=1000&color=FF69B4&center=true&vCenter=true&width=600&lines=Hey+there%2C+I'm+Eman+Sameh!+🌸;Data+Science+Enthusiast+📊;Machine+Learning+Explorer+🤖;AI+Dreamer+✨;Always+Learning+📚&background=251605" alt="Typing SVG" />
+  <img src="https://raw.githubusercontent.com/eman-sameh/eman-sameh/main/Cat-Wow-GIF-by-sillynub.gif" alt="Girly Cat GIF" width="800"/>
 </p>
-
-<!-- Cute GIF -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/eman-sameh/eman-sameh/main/Cat-Wow-GIF-by-sillynub.gif" alt="Girly Cat GIF" width="800" style="border-radius: 25px;"/>
-</p>
-
-<!-- Social + Stats -->
-<div align="center">
-
-[![GitHub followers](https://img.shields.io/github/followers/eman-sameh?style=social&label=Follow)](https://github.com/eman-sameh)  
-![Profile views](https://komarev.com/ghpvc/?username=eman-sameh&style=flat&label=Views&color=FF69B4)
-
-</div>
 
 ---
 
 ## 🌷 About Me  
 
-<img align="right" alt="Coding Girl" width="320" src="https://media.giphy.com/media/coxQHKASG60HrHtvkt/giphy.gif" style="border-radius: 25px;"/>
+<img align="right" alt="Coding Girl" width="320" src="https://media.giphy.com/media/coxQHKASG60HrHtvkt/giphy.gif"/>
 
 - 🎓 Bachelor's in **Communications & Electronics Engineering**, Mansoura University (Class of 2026)  
 - 📊 Passionate about **Data Science, Machine Learning, and AI**  
@@ -67,17 +66,15 @@
   <table>
     <tr>
       <td>
-        <img src="https://github-readme-stats.vercel.app/api?username=eman-sameh&show_icons=true&title_color=FF69B4&icon_color=FFB6C1&text_color=ffffff&bg_color=251605&border_color=FFB6C1&hide_border=true&include_all_commits=true&count_private=true" alt="Eman's GitHub Stats" />
+        <img src="https://github-readme-stats.vercel.app/api?username=eman-sameh&show_icons=true&title_color=FF69B4&icon_color=FFB6C1&text_color=251605&bg_color=ffffff&border_color=FFB6C1&include_all_commits=true&count_private=true" alt="Eman's GitHub Stats" />
       </td>
       <td>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eman-sameh&layout=compact&title_color=FF69B4&text_color=ffffff&bg_color=251605&border_color=FFB6C1&hide_border=true&langs_count=8" alt="Eman's Top Languages" />
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eman-sameh&layout=compact&title_color=FF69B4&text_color=251605&bg_color=ffffff&border_color=FFB6C1&langs_count=8" alt="Eman's Top Languages" />
       </td>
     </tr>
   </table>
 </div>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com/?user=eman-sameh&background=251605&ring=FF69B4&fire=FFB6C1&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=FFB6C1&sideLabels=FF69B4&dates=cccccc&border=FFB6C1&hide_border=true" alt="GitHub Streak"/>
+  <img src="https://streak-stats.demolab.com/?user=eman-sameh&background=ffffff&ring=FF69B4&fire=FFB6C1&currStreakNum=251605&sideNums=251605&currStreakLabel=FFB6C1&sideLabels=FF69B4&dates=251605&border=FFB6C1" alt="GitHub Streak"/>
 </div>
-
----
