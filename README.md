@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  ![Girly Cat GIF](https://raw.githubusercontent.com/eman-sameh/eman-sameh/main/Cat-Wow-GIF-by-sillynub.gif)
+  <img src="https://raw.githubusercontent.com/eman-sameh/eman-sameh/main/Cat-Wow-GIF-by-sillynub.gif" alt="Girly Cat GIF" width="800"/>
 </p>
 
 <div align="center">
