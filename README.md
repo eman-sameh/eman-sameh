@@ -1,16 +1,9 @@
-<!-- Title -->
-<h1 align="center" style="color:#251605; font-size:36px; font-family:Comic Sans MS;">
-  Hey there, I'm Eman Sameh! 🌸
-</h1>
+<!-- Header Typing SVG -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Comic+Sans+MS&size=32&duration=3000&pause=1000&color=251605&center=true&vCenter=true&width=650&lines=Hey+there%2C+I'm+Eman+Sameh!+🌸;Data+Science+Enthusiast+📊;Machine+Learning+Explorer+🤖;AI+Dreamer+✨;Always+Learning+📚" alt="Typing SVG" />
+</p>
 
-<!-- Subtitle -->
-<h3 align="center" style="color:#251605; font-size:20px;">
-  Data Science Enthusiast 📊 · Machine Learning Explorer 🤖 · AI Dreamer ✨ · Always Learning 📚
-</h3>
-
-<br/>
-
-<!-- Cute GIF with rounded effect -->
+<!-- Cute GIF -->
 <p align="center">
   <img src="https://raw.githubusercontent.com/eman-sameh/eman-sameh/main/Cat-Wow-GIF-by-sillynub.gif" alt="Girly Cat GIF" width="800"/>
 </p>
@@ -35,8 +28,8 @@
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-FFB6C1?style=for-the-badge&logo=linkedin&logoColor=251605)](https://www.linkedin.com/in/eman-sameh/)  
-[![Email](https://img.shields.io/badge/Email-Contact%20me-FFB6C1?style=for-the-badge&logo=gmail&logoColor=FF69B4)](mailto:emansameh24@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-FFB6C1?style=for-the-badge&logo=linkedin&logoColor=251605&labelColor=FFB6C1&logoSize=30)](https://www.linkedin.com/in/eman-sameh/)  
+[![Email](https://img.shields.io/badge/Email-Contact%20me-FFB6C1?style=for-the-badge&logo=gmail&logoColor=FF69B4&labelColor=FFB6C1&logoSize=30)](mailto:emansameh24@gmail.com)
 
 </div>
 
