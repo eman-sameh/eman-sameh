@@ -12,10 +12,9 @@
 
 ## 🌷 About Me  
 
-<img align="right" alt="Coding Girl" width="320" src="https://media.giphy.com/media/3oriO0OEd9QIDdllqo/giphy.gif">
+<img align="right" alt="Coding Girl" width="320" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif">
 
 - 🎓 Bachelor's in **Communications & Electronics Engineering**, Mansoura University (Class of 2026)  
-- 🎨 Passionate **UI/UX Designer** (DEPI Diploma, graduating March 2025)  
 - 💻 Interested in **Data Science & Machine Learning**  
 - ✨ Self-learner who loves teamwork & sharing knowledge  
 - 🌸 Balances **creativity and logic** to solve problems beautifully  
