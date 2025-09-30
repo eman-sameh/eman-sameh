@@ -17,7 +17,9 @@
 - 🎓 Bachelor's in **Communications & Electronics Engineering**, Mansoura University (Class of 2026)  
 - 💻 Interested in **Data Science & Machine Learning**  
 - ✨ Self-learner who loves teamwork & sharing knowledge  
-- 🌸 Balances **creativity and logic** to solve problems beautifully  
+- 🌸 Balances **creativity and logic** to solve problems beautifully
+- 🌱 Currently exploring **Deep Learning, Computer Vision, and NLP**  
+- 🔍 Love working with **real-world datasets** & turning them into insights  
 
 <br clear="both"/>
 
