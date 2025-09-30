@@ -72,31 +72,6 @@
 <div align="center">
   <img src="https://streak-stats.demolab.com/?user=eman-sameh&background=251605&ring=FFB6C1&fire=FFB6C1&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=FFFFFF&sideLabels=FFFFFF&dates=FFFFFF&border=FFB6C1" alt="GitHub Streak"/>
 </div>
-
-name: Generate Snake
-
-on:
-  schedule: # كل يوم
-    - cron: "0 0 * * *"
-  workflow_dispatch: # عشان تشغليه بإيدك لو عاوزة
-
-jobs:
-  build:
-    runs-on: ubuntu-latest
-
-    steps:
-      - name: Checkout repo
-        uses: actions/checkout@v3
-
-      - name: Generate Snake Animation
-        uses: Platane/snk@v3
-        with:
-          github_user_name: eman-sameh
-          outputs: dist/snake.svg
-
-      - name: Push Snake
-        uses: crazy-max/ghaction-github-pages@v4
-        with:
           target_branch: output
           build_dir: dist
         env:
