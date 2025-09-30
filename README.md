@@ -1,6 +1,6 @@
 <!-- Header Typing SVG -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Comic+Sans+MS&size=32&duration=3000&pause=1000&color=251605&center=true&vCenter=true&width=650&lines=Hey+there%2C+I'm+Eman+Sameh!+🌸;Data+Science+Enthusiast+📊;Machine+Learning+Explorer+🤖;AI+Dreamer+✨;Always+Learning+📚" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Comic+Sans+MS&size=32&duration=3000&pause=1000&color=251605&center=true&vCenter=true&width=650&lines=Hey+there%2C+I'm+Eman+Sameh!+🌸;Data+Science+Enthusiast+📊;Machine+Learning+Explorer+🤖;Always+Learning+📚" alt="Typing SVG" />
 </p>
 
 <!-- Cute GIF -->
@@ -12,7 +12,7 @@
 
 ## 🌷 About Me  
 
-<img align="right" alt="Coding Girl" width="320" src="https://media.giphy.com/media/coxQHKASG60HrHtvkt/giphy.gif"/>
+<img align="right" alt="Coding Girl" width="320" src="[https://media.giphy.com/media/coxQHKASG60HrHtvkt/giphy.gif](https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif)"/>
 
 - 🎓 Bachelor's in **Communications & Electronics Engineering**, Mansoura University (Class of 2026)  
 - 📊 Passionate about **Data Science, Machine Learning, and AI**  
