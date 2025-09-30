@@ -12,7 +12,7 @@
 
 ## 🌷 About Me  
 
-<img align="right" alt="Coding Girl" width="320" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif">
+<img align="right" alt="Coding Girl" width="320" src="https://media.giphy.com/media/LHZyixOnHwDDy/giphy.gif">
 
 - 🎓 Bachelor's in **Communications & Electronics Engineering**, Mansoura University (Class of 2026)  
 - 💻 Interested in **Data Science & Machine Learning**  
