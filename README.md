@@ -72,10 +72,8 @@
 <div align="center">
   <img src="https://streak-stats.demolab.com/?user=eman-sameh&background=251605&ring=FFB6C1&fire=FFB6C1&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=FFFFFF&sideLabels=FFFFFF&dates=FFFFFF&border=FFB6C1" alt="GitHub Streak"/>
 </div>
-          target_branch: output
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+---
 
 <p align="center">
   <img src="https://github.com/eman-sameh/eman-sameh/blob/output/snake.svg" alt="Snake animation" />
