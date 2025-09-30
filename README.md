@@ -75,6 +75,8 @@
 
 ---
 
+## 💗 contributions 
+
 <p align="center">
   <img src="https://github.com/eman-sameh/eman-sameh/blob/output/snake.svg" alt="Snake animation" />
 </p>
