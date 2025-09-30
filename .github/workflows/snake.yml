@@ -6,7 +6,7 @@ on:
   workflow_dispatch: 
 
 permissions:
-  contents: write   
+  contents: write
 
 jobs:
   build:
@@ -21,7 +21,11 @@ jobs:
         with:
           github_user_name: eman-sameh
           outputs: dist/snake.svg
-
+          theme: "custom"
+          color: "#FFB6C1"
+          background: "#251605"
+          hide_labels: true 
+          
       - name: Push Snake
         uses: crazy-max/ghaction-github-pages@v4
         with:
